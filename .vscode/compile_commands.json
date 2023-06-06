@@ -1,0 +1,6 @@
+[
+{
+  "directory": "c:\\Software\\Project\\C\\telling",
+  "arguments": ["clang.exe", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-fexceptions", "-fcxx-exceptions", "-o", "build\\.objs\\telling\\windows\\x64\\debug\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+}]
